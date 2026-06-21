@@ -7,3 +7,6 @@ MAJOR PROJECTS WILL BE A DIFFERENT REPO.
    - uploaded one of the exercise notebooks from the intro to ML course in Kaggle.
    - tried editing, renaming and organizing files into a folder.
 2. Done my first ever competition submission! (exe7_housingcompetition) ranked 3700 out of 4000 lol
+3. Learned basic techniques to deal with N/A values in the DataFrame
+   - rank moved up from 3700 to 1900
+   - stumbled across a problem with drop column (difference in column dropped), fixed it using union of train and test data.
