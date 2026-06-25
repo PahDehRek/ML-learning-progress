@@ -10,4 +10,5 @@ MAJOR PROJECTS WILL BE A DIFFERENT REPO.
 3. Learned basic techniques to deal with N/A values in the DataFrame
    - rank moved up from 3700 to 1900
    - stumbled across a problem with drop column (difference in column dropped), fixed it using union of train and test data.
-4. Finished the Panda mini-course in Kaggle
+4. Finished the __Panda__ course in Kaggle
+5. Finished the __Data Cleaning__ course in Kaggle
