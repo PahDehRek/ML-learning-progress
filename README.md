@@ -17,3 +17,4 @@ MAJOR PROJECTS WILL BE A DIFFERENT REPO.
    - Data Cleaning
    - Feature Engineering
    - Data Visualization
+5. FINISHED Andrej Karpathy's micrograd course!! yay. (Neural net now i guess)
