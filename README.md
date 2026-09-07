@@ -19,3 +19,4 @@ MAJOR PROJECTS WILL BE A DIFFERENT REPO.
    - Data Visualization
 5. FINISHED Andrej Karpathy's micrograd course!! yay. (Neural net now i guess)
 6. Finished Andrej Karpathy's makemore part 1, 2!!! (getting to ChatGPT from scratch with this one)
+7. Finished makemore part 3. (we're getting there)
